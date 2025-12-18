@@ -81,7 +81,7 @@ Le compte rendu est structuré avec les sections suivantes :
 
 ## Notes sur l’IA utilisée
 
-- **Option locale** : Le script utilise un LLM Mistral en local pour produire le compte rendu. Si les performances sont limitées sur de longues transcriptions, il est possible de générer le compte rendu via NotebookLM (outil en ligne de Google) en donnant simplement la transcription.  
+- **Option locale** : Le script compte_rendu.py utilise un LLM Mistral en local pour produire le compte rendu. Si les performances sont limitées sur de longues transcriptions, il est possible de générer le compte rendu à partir des transcriptions via NotebookLM (outil en ligne de Google) en donnant simplement la transcription.  
   - [NotebookLM](https://notebook.google.com/)  
 
 ---
