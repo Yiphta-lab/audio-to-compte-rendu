@@ -76,7 +76,12 @@ Le compte rendu est structuré avec les sections suivantes :
 - **POINTS DISCUTÉS**
 - **DÉCISIONS PRISES**
 - **ACTIONS À MENER**
+3. Pipeline complet
 
+Le script main.py est la concatenation des deux précédents scripts. Il  prend l'audio et fait tout le pipeline jusqu'à la production d'un compte rendu structuré.
+```bash
+python3 main.py 
+```
 ---
 
 ## Notes sur l’IA utilisée
